@@ -20,6 +20,8 @@ collaborative aspects not available from the command line
 
 gh-pages: website hosting
 
+Private repositories available through https://education.github.com
+
 ## markdownn (.md)
 
 *italics*
