@@ -9,6 +9,10 @@ Saving a version:
 -	git add README.md
 -	git commit –m ‘My first commit’
 
+*italics
+**bold
+***bold and italics?
+
 ## Definitions
 
 Git: the command from the desktop
