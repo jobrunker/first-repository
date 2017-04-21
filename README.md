@@ -18,6 +18,8 @@ Consider using Atom editor?
 
 collaborative aspects not available from the command line
 
+gh-pages: website hosting
+
 ## markdownn (.md)
 
 *italics*
