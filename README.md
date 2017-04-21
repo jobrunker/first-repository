@@ -11,6 +11,11 @@ Saving a version:
 -	git add README.md
 -	git commit –m ‘My first commit’
 
+Word / Excel: can't see changes.
+Work with text files e.g. .csv
+
+Consider using Atom editor?
+
 *italics*
 **bold**
 ***bold and italics***
@@ -28,6 +33,11 @@ Fork: branch from someone else's repository
 Pull request: incorporate changes from a branch to the master
 
 Merge: act of incorporating new changes from a branch to the master
+
+Clone: more than just downloading, also downloads all the version history
+Commit: to local repository
+
+Sync = pull and push
 
 
 # Add More Markdown
