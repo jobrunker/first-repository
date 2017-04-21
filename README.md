@@ -16,6 +16,10 @@ Work with text files e.g. .csv
 
 Consider using Atom editor?
 
+collaborative aspects not available from the command line
+
+## markdown
+
 *italics*
 **bold**
 ***bold and italics***
