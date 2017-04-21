@@ -21,7 +21,9 @@ collaborative aspects not available from the command line
 ## markdown
 
 *italics*
+
 **bold**
+
 ***bold and italics***
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
