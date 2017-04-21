@@ -3,6 +3,8 @@ Repository created during the training workshop
 
 ## notes
 
+README is automatically shown to everyone
+
 These are some notes from the workshop:
 
 Saving a version:
@@ -18,7 +20,8 @@ Saving a version:
 Git: the command from the desktop
 GitHub: the online repository
 
-Branch: copy of the project
+Branch: copy of the project;
+Fork: branch from someone else's repository
 
 Pull request: incorporate changes from a branch to the master
 
