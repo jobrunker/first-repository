@@ -18,7 +18,7 @@ Consider using Atom editor?
 
 collaborative aspects not available from the command line
 
-## markdown
+## markdownn (.md)
 
 *italics*
 
