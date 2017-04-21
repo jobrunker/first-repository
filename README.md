@@ -15,6 +15,8 @@ Saving a version:
 **bold**
 ***bold and italics***
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ## Definitions
 
 Git: the command from the desktop
