@@ -43,5 +43,7 @@ Commit: to local repository
 
 Sync = pull and push
 
+Publish: if have created it offline, first need to create it online (publish it) before can push/pull
+
 
 # Add More Markdown
